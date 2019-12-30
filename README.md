@@ -12,5 +12,5 @@ is absolutely infeasible for anyone with either a job or a life.
 
 ## Decrypting HackTheBox Writeups
 ```bash
-openssl enc -aes-256-cbc -d -in htb-<name>.tar.gz.enc | tar xz
+openssl enc -aes-256-cbc -d -in htb-<name>.tar.gz.enc -pbkdf2 | tar xz
 ```
