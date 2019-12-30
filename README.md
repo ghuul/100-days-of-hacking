@@ -10,5 +10,7 @@ is absolutely infeasible for anyone with either a job or a life.
  * [HackTheBox](https://hackthebox.eu)
  * [VulnHub](https://vulnhub.com)
 
-Note: Any writeup I do for any active HTB boxes will be password protected by the root flag for
-that box, as to not break the HTB TOS.
+## Decrypting HackTheBox Writeups
+```bash
+openssl enc -aes-256-cbc -d -in htb-<name>.tar.gz.enc | tar xz
+```
