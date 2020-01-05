@@ -24,7 +24,7 @@ enter aes-256-cbc decryption password:
  002 | HackTheBox | Traverxec           | x
  003 | HackTheBox | Craft               | x
  004 | HackTheBox | Mango               | x
- 005 | HackTheBox | Bitlab              | -
+ 005 | HackTheBox | Bitlab              | x
  006 | HackTheBox | Obscurity           | -
  007 | HackTheBox | Registry            | -
  008 | VulnHub    | Kioptrix: Level 1   | -
