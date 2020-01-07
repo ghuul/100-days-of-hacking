@@ -35,10 +35,10 @@ enter aes-256-cbc decryption password:
  013 | HackTheBox | Lame                | -
  014 | HackTheBox | Bank                | -
  015 | HackTheBox | OpenAdmin           | -
+ 016 | VulnHub    | Mr Robot: 1         | -
 
 ## Todo
  - HTB Player
- - VNH Mr-Robot: 1
  - HTB Haircut
  - HTB Node
  - VNH Tr0ll: 1
