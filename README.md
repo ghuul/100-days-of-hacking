@@ -22,7 +22,7 @@ enter aes-256-cbc decryption password:
 -----|------------|---------------------|---------
  001 | HackTheBox | Postman             | x
  002 | HackTheBox | Traverxec           | x
- 003 | HackTheBox | Craft               | x
+ 003 | HackTheBox | Craft               | [Here](/writeups/003-htb-craft.md)
  004 | HackTheBox | Mango               | x
  005 | HackTheBox | Bitlab              | x
  006 | HackTheBox | Obscurity           | -
