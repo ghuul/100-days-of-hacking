@@ -36,6 +36,7 @@ enter aes-256-cbc decryption password:
  014 | HackTheBox | Bank                | -
  015 | HackTheBox | OpenAdmin           | -
  016 | VulnHub    | Mr Robot: 1         | -
+ 017 | HackTheBox | Haircut             | -
 
 ## Todo
  - HTB Player
